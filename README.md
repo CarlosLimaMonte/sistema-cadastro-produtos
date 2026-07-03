@@ -1,2 +1,1 @@
-# treinando-poo1
-Primeira etapa de treinando de POO
+Sistema de cadastro de produtos em Java — conceitos de OOP
